@@ -62,3 +62,23 @@ a{
     gap: 20%;
 }
 
+heading{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3vh;
+    margin-bottom: 5vh;
+}
+
+.research-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.research-container a{
+    margin-bottom: 3vh;
+    text-decoration: underline;
+}
